@@ -1,1 +1,3 @@
-# hola_mundo
+# Ejercicio de aplicacion de repositorios
+
+## Facundo A. Pintos 

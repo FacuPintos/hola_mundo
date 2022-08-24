@@ -1,0 +1,14 @@
+cree el repositorio en la pagina de git
+git clone https://github.com/FacuPintos/hola_mundo.git
+dotnet new console
+modifique el README.md con mis datos
+git status
+git add .
+git status
+git commit
+git push
+git status
+git add .
+git commit
+git status
+git push
